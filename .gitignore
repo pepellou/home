@@ -21,6 +21,7 @@
 .pulse-cookie
 .scid/
 .ssh/
+.thumbnails/
 .viminfo
 .Xauthority
 .xsession-errors*
