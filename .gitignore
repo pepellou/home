@@ -1,11 +1,15 @@
+.bash_history
 .cache/
+.compiz*
 .config/
 .dbus/
 .dmrc
 .face
+.fontconfig/
 .gconf/
 .gnome/
 .gnome2/
+.goutputstream*
 .gtk-bookmarks
 .ICEauthority
 .local/
@@ -17,7 +21,8 @@
 .ssh/
 .viminfo
 .Xauthority
-.xsession-errors
+.xsession-errors*
 Downloads/
 examples.desktop
 Workspace/
+*.swp
