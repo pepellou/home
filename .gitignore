@@ -10,6 +10,7 @@
 .gnome/
 .gnome2/
 .goutputstream*
+.gstreamer*
 .gtk-bookmarks
 .ICEauthority
 .local/
@@ -18,6 +19,7 @@
 .pki/
 .pulse/
 .pulse-cookie
+.scid/
 .ssh/
 .viminfo
 .Xauthority
