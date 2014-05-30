@@ -29,3 +29,7 @@ Downloads/
 examples.desktop
 Workspace/
 *.swp
+.gegl-0.0/
+.gimp-2.6/
+.macromedia/
+.mplayer/
