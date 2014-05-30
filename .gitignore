@@ -33,3 +33,6 @@ Workspace/
 .gimp-2.6/
 .macromedia/
 .mplayer/
+.guvcviewrc
+.kde/
+Videos/recorded.ogv

@@ -105,3 +105,6 @@ fi
 if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
+PATH=$PATH:~/bin
+
+alias graba='recordmydesktop -x 0 -y 0 --width 1680 --height 1050 -o ~/Videos/recorded.ogv'
