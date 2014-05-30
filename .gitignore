@@ -35,4 +35,4 @@ Workspace/
 .mplayer/
 .guvcviewrc
 .kde/
-Videos/recorded.ogv
+Videos/recorded*.ogv
