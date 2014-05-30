@@ -1,0 +1,18 @@
+#!/usr/bin/bash
+
+echo Generating SSH key...
+ssh-keygen -t rsa
+
+echo Please add this key to your Github profile. Then press ENTER to continue.
+cat ~/.ssh/id_rsa.pub
+
+read stuff
+
+echo Installing basic repos...
+git clone git@github.com:pepellou/git-tricks.git ~/Workspace/git-tricks
+cp ~/Workspace/git-tricks/.gitconfig ~
+
+echo Installing basic programs...
+sudo apt-get install -y git vim scid gimp aptitude mplayer
+
+
